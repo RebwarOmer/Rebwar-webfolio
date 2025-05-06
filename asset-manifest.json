@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/Rebwar-webfolio/static/css/main.006a78ba.css",
-    "main.js": "/Rebwar-webfolio/static/js/main.1ad82ac9.js",
+    "main.css": "/Rebwar-webfolio/static/css/main.d3a68d74.css",
+    "main.js": "/Rebwar-webfolio/static/js/main.c5196ea5.js",
     "static/js/453.0a36081d.chunk.js": "/Rebwar-webfolio/static/js/453.0a36081d.chunk.js",
     "static/media/IMG_7437.JPG": "/Rebwar-webfolio/static/media/IMG_7437.1a3996fff9f2a29ddf69.JPG",
     "static/media/001.jpg": "/Rebwar-webfolio/static/media/001.f7d3f1e39ba4acac06a6.jpg",
     "static/media/jjkcover.jpg": "/Rebwar-webfolio/static/media/jjkcover.c0d3c3477358468298a0.jpg",
+    "static/media/joker.jpg": "/Rebwar-webfolio/static/media/joker.25702c0a92b816f1bce5.jpg",
+    "static/media/Save_Ralph.jpg": "/Rebwar-webfolio/static/media/Save_Ralph.1265f6a5351e36dfc932.jpg",
     "static/media/1_medium.jpg": "/Rebwar-webfolio/static/media/1_medium.2a4a7e82382f05d8c3c2.jpg",
     "index.html": "/Rebwar-webfolio/index.html",
-    "main.006a78ba.css.map": "/Rebwar-webfolio/static/css/main.006a78ba.css.map",
-    "main.1ad82ac9.js.map": "/Rebwar-webfolio/static/js/main.1ad82ac9.js.map",
+    "main.d3a68d74.css.map": "/Rebwar-webfolio/static/css/main.d3a68d74.css.map",
+    "main.c5196ea5.js.map": "/Rebwar-webfolio/static/js/main.c5196ea5.js.map",
     "453.0a36081d.chunk.js.map": "/Rebwar-webfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.006a78ba.css",
-    "static/js/main.1ad82ac9.js"
+    "static/css/main.d3a68d74.css",
+    "static/js/main.c5196ea5.js"
   ]
 }
