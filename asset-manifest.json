@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rebwar-webfolio/static/css/main.891d5247.css",
-    "main.js": "/Rebwar-webfolio/static/js/main.1f0b0c8c.js",
+    "main.js": "/Rebwar-webfolio/static/js/main.da533217.js",
     "static/js/453.0a36081d.chunk.js": "/Rebwar-webfolio/static/js/453.0a36081d.chunk.js",
     "static/media/RebwarOmer'sCv.pdf": "/Rebwar-webfolio/static/media/RebwarOmer'sCv.c0dcffa6a11714ab50a9.pdf",
     "static/media/IMG_7437.JPG": "/Rebwar-webfolio/static/media/IMG_7437.1a3996fff9f2a29ddf69.JPG",
@@ -17,11 +17,11 @@
     "static/media/1_medium.jpg": "/Rebwar-webfolio/static/media/1_medium.2a4a7e82382f05d8c3c2.jpg",
     "index.html": "/Rebwar-webfolio/index.html",
     "main.891d5247.css.map": "/Rebwar-webfolio/static/css/main.891d5247.css.map",
-    "main.1f0b0c8c.js.map": "/Rebwar-webfolio/static/js/main.1f0b0c8c.js.map",
+    "main.da533217.js.map": "/Rebwar-webfolio/static/js/main.da533217.js.map",
     "453.0a36081d.chunk.js.map": "/Rebwar-webfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.891d5247.css",
-    "static/js/main.1f0b0c8c.js"
+    "static/js/main.da533217.js"
   ]
 }
